@@ -84,9 +84,6 @@ npm start
 2. Connect your GitHub repository to [Vercel](https://vercel.com)
 3. Deploy with zero configuration
 
-[![Deploy with Vercel](https://i.ytimg.com/vi/CNJkX9rYI8U/mqdefault.jpg)
-
-
 ### Deploy to GitHub Pages
 1. Update `next.config.js` with `output: 'export'`
 2. Build: `npm run build`
