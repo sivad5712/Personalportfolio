@@ -1,5 +1,5 @@
 
-# 🚀 Siva D - Portfolio Website
+# 🚀 Portfolio Website
 
 A modern, responsive portfolio website built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. This portfolio showcases professional experience, technical skills, certifications, and featured projects with an elegant dark theme and smooth animations.
 
@@ -75,17 +75,13 @@ npm run build
 npm start
 ```
 
-### Deploy to Vercel (Recommended)
+### Deploy to Vercel 
 1. Push your code to GitHub
 2. Connect your GitHub repository to [Vercel](https://vercel.com)
 3. Deploy with zero configuration
 
 [![Deploy with Vercel](https://i.ytimg.com/vi/CNJkX9rYI8U/mqdefault.jpg)
 
-### Deploy to Netlify
-1. Build the application: `npm run build`
-2. Upload the `out` folder to [Netlify](https://netlify.com)
-3. Configure custom domain if needed
 
 ### Deploy to GitHub Pages
 1. Update `next.config.js` with `output: 'export'`
@@ -338,35 +334,13 @@ NEXT_PUBLIC_GITHUB_URL=https://github.com/your-username
 - ✅ Edge 90+
 - ✅ Mobile browsers (iOS Safari, Chrome Mobile)
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact & Support
 
-- **📧 Email**: siva.d@example.com
 - **💼 LinkedIn**: [linkedin.com/in/siva-d](https://linkedin.com/in/siva-d)
 - **🐙 GitHub**: [github.com/siva-d](https://github.com/siva-d)
-
-## 🙏 Acknowledgments
-
-- **Design Inspiration**: Modern portfolio websites and design systems
-- **Icons**: [Lucide React](https://lucide.dev/) for beautiful, consistent icons
-- **UI Components**: [Radix UI](https://www.radix-ui.com/) for accessible components
-- **Animations**: [Framer Motion](https://www.framer.com/motion/) for smooth animations
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) for utility-first CSS
-
----
-
-**⭐ If you found this portfolio helpful, please give it a star on GitHub!**
 
 **🔥 Built with passion by Siva D - Sr. Software Engineer**
 
