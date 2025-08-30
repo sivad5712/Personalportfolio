@@ -1,0 +1,18 @@
+
+{
+  "recommendations": [
+    "ms-vscode.vscode-typescript-next",
+    "bradlc.vscode-tailwindcss", 
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-eslint",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense",
+    "dsznajder.es7-react-js-snippets",
+    "pmneo.tsimporter",
+    "PulkitGangwar.nextjs-snippets",
+    "rangav.vscode-thunder-client",
+    "eamodio.gitlens",
+    "formulahendry.auto-close-tag",
+    "ms-vscode.vscode-json"
+  ]
+}
