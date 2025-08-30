@@ -4,6 +4,10 @@
 A modern, responsive portfolio website built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**. This portfolio showcases professional experience, technical skills, certifications, and featured projects with an elegant dark theme and smooth animations.
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Production%20Ready-brightgreen) ![Next.js](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue) ![Tailwind](https://img.shields.io/badge/Tailwind-3.3-38bdf8)
+## 🌟 Live Demo
+
+**[Try the Live Website](https://sivad.abacusai.app/)**
+
 
 ## ✨ Features
 
